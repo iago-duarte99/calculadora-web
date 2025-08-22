@@ -29,3 +29,6 @@ Cálculos básicos: Adição, subtração, multiplicação e divisão.
     width="30px"
     style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
+ ## 🔗 Inspiração e Créditos  
+ Este projeto foi inspirado em [Calculadora v2.0](https://github.com/Gutoneitzke/calculadora-html-css-js-v2) por [Gustavo Neitzke](https://github.com/Gutoneitzke).
